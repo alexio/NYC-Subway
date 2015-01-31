@@ -1,2 +1,2 @@
 # NYC-Subway
-Stats on nyc subway
+Stats on nyc subway data
